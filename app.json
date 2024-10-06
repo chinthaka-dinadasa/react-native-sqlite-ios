@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.skalafy-mobile-dev.ios-sqlite-app"
     },
     "android": {
       "adaptiveIcon": {
